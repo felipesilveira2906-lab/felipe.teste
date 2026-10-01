@@ -1,0 +1,6 @@
+{
+  "name": "MotorHelp — Cockpit Digital & Telemetria",
+  "description": "Plataforma de telemetria veicular, navegação GPS para motociclistas e motoristas, manutenção preditiva via OBD-II e gestão de garagem digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
